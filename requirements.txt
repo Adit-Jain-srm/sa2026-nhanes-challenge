@@ -1,0 +1,23 @@
+# NHANES Age Prediction - Summer Analytics 2026 (IIT Guwahati)
+# Python 3.13. Versions pinned to a verified-working environment.
+
+# Core data stack
+pandas==2.2.3
+numpy==2.2.6
+
+# Modeling
+scikit-learn==1.6.1
+lightgbm==4.6.0
+xgboost==3.0.5
+catboost==1.2.8
+
+# Hyperparameter optimization & interpretability
+optuna==4.5.0
+shap==0.48.0
+
+# Visualization
+matplotlib==3.10.3
+seaborn==0.13.2
+
+# Notebook runtime
+jupyter==1.1.1
